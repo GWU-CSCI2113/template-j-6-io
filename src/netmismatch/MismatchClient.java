@@ -13,7 +13,6 @@ public class MismatchClient {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// FILL THIS IN FROM OUR NEIGHBOR -- run FindMyIP.java to find out
 		String host = "127.0.0.1";
 		
 		int portnum = 6666;
