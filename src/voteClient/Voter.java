@@ -11,8 +11,7 @@ public class Voter {
 
 	public static void main(String[] args) {
 
-		// FILL THESE IN FROM THE BOARD
-		String host = "127.0.0.1"; //"128.164.219.208"; 
+		String host = "127.0.0.1"; 
 		int portnum = 5555;
 		
 		Socket s;

@@ -12,8 +12,7 @@ import java.net.UnknownHostException;
  */
 public class KnockClient {
 
-    public KnockClient() {
-        // FILL THIS IN FROM OUR NEIGHBOR -- run FindMyIP.java to find out
+    public KnockClient() 
         String host = "127.0.0.1";
 
         int portnum = 6666;
