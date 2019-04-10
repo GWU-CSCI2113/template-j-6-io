@@ -32,8 +32,8 @@ class VoteListener implements Runnable {
 			System.out.println("read vote:" + v);
 			gui.vote(v);
 			
-			if(v.equalsIgnoreCase("Dr. T")) {
-				out.println("You cast your ballot for Dr. T... do you think you'll get bonus points or something?");
+			if(v.equalsIgnoreCase("Prof. L")) {
+				out.println("You cast your ballot for Prof. L ... do you think you'll get bonus points or something?");
 			}
 			out.println("You cast your ballot for " + v);
 
