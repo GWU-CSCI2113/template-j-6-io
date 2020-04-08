@@ -11,7 +11,7 @@ public class Voter {
 
 	public static void main(String[] args) {
 
-		String host = "127.0.0.1"; 
+		String host = "127.0.0.1"; //replace this with the IP provided during lecture
 		int portnum = 5555;
 		
 		Socket s;
